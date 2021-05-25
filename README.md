@@ -1,2 +1,4 @@
 # hello-world
-GitHUb Guides Hello World Tutorial
+GitHub Guides Hello World Tutorial
+
+Hello! This is part of the tutorial I am following. 
